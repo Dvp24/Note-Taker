@@ -1,22 +1,23 @@
 {
-  "name": "Note-Taker",
+  "name": "new-notetaker",
   "version": "1.0.0",
   "description": "",
-  "main": "note-taker.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Dvp24/Note-Taker.git"
+    "url": "git+https://github.com/Dvp24/new-notetaker.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Dvp24/Note-Taker/issues"
+    "url": "https://github.com/Dvp24/new-notetaker/issues"
   },
-  "homepage": "https://github.com/Dvp24/Note-Taker#readme",
+  "homepage": "https://github.com/Dvp24/new-notetaker#readme",
   "dependencies": {
     "express": "^4.16.4",
     "mysql": "^2.16.0"
